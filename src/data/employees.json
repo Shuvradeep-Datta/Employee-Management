@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul",
+    "role": "Software Engineer",
+    "department": "IT",
+    "salary": "50000"
+  },
+  {
+    "id": 2,
+    "name": "Amit",
+    "role": "HR Manager",
+    "department": "HR",
+    "salary": "45000"
+  },
+  {
+    "id": 3,
+    "name": "John",
+    "role": "Developer",
+    "department": "IT",
+    "salary": "60000"
+  },
+  {
+    "id": 4,
+    "name": "Sam",
+    "role": "Accountant",
+    "department": "Finance",
+    "salary": "55000"
+  },
+  {
+    "id": 5,
+    "name": "Lisa",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "salary": "48000"
+  },
+  {
+    "id": 6,
+    "name": "David",
+    "role": "Sales Executive",
+    "department": "Sales",
+    "salary": "52000"
+  },
+  {
+    "id": 7,
+    "name": "Emily",
+    "role": "Customer Support Representative",
+    "department": "Support",
+    "salary": "40000"
+  },
+  {
+    "id": 8,
+    "name": "Michael",
+    "role": "Project Manager",
+    "department": "IT",
+    "salary": "70000"
+  },
+  {
+    "id": 9,
+    "name": "Sophia",
+    "role": "Business Analyst",
+    "department": "IT",
+    "salary": "65000"
+  }
+]

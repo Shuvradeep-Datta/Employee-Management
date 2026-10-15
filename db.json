@@ -1,0 +1,166 @@
+{
+  "employees": [
+    {
+      "name": "Anup Kumar",
+      "role": "Devops Engineer 2",
+      "department": "Edd",
+      "salary": 1000000,
+      "id": "zal5MWqc7D8"
+    },
+    {
+      "id": "7G9qxWR80CE",
+      "name": "Shuvradeep Datta",
+      "role": "Backend Developer 3",
+      "department": "Software Engineer",
+      "salary": "669000"
+    },
+    {
+      "name": "Akash kumar Shaw",
+      "role": "Frontend Developer",
+      "department": "Engineering",
+      "salary": "678000",
+      "id": "50YFA_sssgA"
+    },
+    {
+      "name": "Anuradha Mahapatra",
+      "role": "Backend Developer",
+      "department": "Software Engineering",
+      "salary": "1100000",
+      "id": "SGezQgQEKtM"
+    },
+    {
+      "name": "Irshad T",
+      "role": "Tester",
+      "department": "EDD",
+      "salary": "600000",
+      "id": "NJHqRINSyT0"
+    },
+    {
+      "name": "kksjs",
+      "role": "ssnns",
+      "department": "qwwww",
+      "salary": "6789955",
+      "id": "3T29IbdBhWQ"
+    },
+    {
+      "name": "fgr",
+      "role": "jsjjsj",
+      "department": "assjjs",
+      "salary": "878899",
+      "id": "5jPWCmihlg8"
+    },
+    {
+      "name": "sss",
+      "role": "sss",
+      "department": "aaa",
+      "salary": "4456789",
+      "id": "WjeSmziboF4"
+    },
+    {
+      "name": "Anindya Bhattacharya",
+      "role": "ddd",
+      "department": "sss",
+      "salary": "4444444444",
+      "id": "3RX50BKIZpE"
+    },
+    {
+      "id": "EtEscK4IEz4",
+      "name": "nnn",
+      "role": "hh",
+      "department": "hhh",
+      "salary": "888889"
+    },
+    {
+      "name": "ddd",
+      "role": "ddd",
+      "department": "sss",
+      "salary": "2345678",
+      "id": "cAVfnjvjefU"
+    },
+    {
+      "name": "ccc",
+      "role": "cc",
+      "department": "cc",
+      "salary": "456787",
+      "id": "sEZp5teWiEY"
+    },
+    {
+      "id": "_JgNQhKCqDA",
+      "name": "tyy",
+      "role": "fff",
+      "department": "yyy",
+      "salary": "6788999"
+    },
+    {
+      "name": "Anindya Bhattacharya",
+      "role": "Sr Agilist",
+      "department": "EDD- Cambridge",
+      "salary": "56667788",
+      "id": "jON1oFKl1Pw"
+    },
+    {
+      "name": "Shuvradeep Datta",
+      "role": "Software Engineer",
+      "department": "EDD- Cambridge",
+      "salary": "60000",
+      "id": "8djryJhQ-FM"
+    },
+    {
+      "name": "ss",
+      "role": "ss",
+      "department": "ss",
+      "salary": "678788",
+      "id": "qE23_FHxy3Q"
+    },
+    {
+      "id": "iznOZu4FkH8",
+      "name": "ddd1",
+      "role": "xxx1",
+      "department": "xx",
+      "salary": "788999"
+    },
+    {
+      "name": "dd",
+      "role": "cc",
+      "department": "cc",
+      "salary": "456678",
+      "id": "Cqe2xyXzcwg"
+    },
+    {
+      "name": "ttq",
+      "role": "ee",
+      "department": "rrt",
+      "salary": 78994,
+      "id": "me2sd4Jz8NQ"
+    },
+    {
+      "name": "jjj",
+      "role": "mm",
+      "department": "jj",
+      "salary": 78899,
+      "id": "ZVeKR-Sf8Tw"
+    },
+    {
+      "name": "Deep",
+      "role": "deep",
+      "department": "dddd",
+      "salary": 7889099,
+      "id": "i9tXoklBTSM"
+    },
+    {
+      "name": "ddd",
+      "role": "dd",
+      "department": "dd",
+      "salary": 6677888,
+      "id": "s992r0MsR8E"
+    },
+    {
+      "name": "jj",
+      "role": "jjj",
+      "department": "kkk",
+      "salary": 789000,
+      "id": "IdlAZG0S-Us"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
