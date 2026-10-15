@@ -1,5 +1,5 @@
 
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar.jsx";
 import { lazy, Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 
